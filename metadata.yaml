@@ -5,12 +5,17 @@ contributor:
     agent_name: Mason, E. A.
     gutenberg_agent_id: '54106'
     url: http://www.gutenberg.org/2009/agents/54106
+covers:
+- cover_type: archival
+  image_path: 67085-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, A. W.
     gutenberg_agent_id: '54105'
     url: http://www.gutenberg.org/2009/agents/54105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67085#Icelandic-Fairy-Tales
 gutenberg_issued: '2022-01-02'
 identifiers:
   gutenberg: '67085'
